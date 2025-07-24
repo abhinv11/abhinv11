@@ -38,7 +38,7 @@ Cloud:           AWS (beginner), Google Colab
 - 🧠 **Customer Churn Prediction** – [GitHub Repo](#)  
   *Predict whether a customer will stay or leave a financial institutions  using ML classifiers*
 
-- 🎯 **Flight Fare Prediction** – [GitHub Repo](#)  
+- 🎯 **Flight Fare Prediction** – [GitHub Repo](https://github.com/abhinv11/flight_price_prediction_using_ml)  
   *Regression project to estimate airline ticket prices using ensemble models*
 
 <!-- - 📊 **EDA on Indian Startups** – [GitHub Repo](#)  
