@@ -59,6 +59,8 @@ Cloud:           AWS (beginner), Google Colab
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinav11&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinav11" alt="abhinav11" /></a> </p>
+
 ---
 
 ## 📢 Connect with Me
