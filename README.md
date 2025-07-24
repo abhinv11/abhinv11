@@ -41,6 +41,10 @@ Cloud:           AWS (beginner), Google Colab
 - 🎯 **Flight Fare Prediction** – [GitHub Repo](https://github.com/abhinv11/flight_price_prediction_using_ml)  
   *Regression project to estimate airline ticket prices using ensemble models*
 
+- 🎯 **Household Services App** - [GitHub Repo](https://github.com/abhinv11/abhinav-household-iitmbs-project)
+  *A comprehensive web application for managing household services. This Flask-based application
+  provides a complete platform for booking, managing, and reviewing household services*
+
 <!-- - 📊 **EDA on Indian Startups** – [GitHub Repo](#)  
   *Visual exploration of startup funding in India*
 
