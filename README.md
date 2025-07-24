@@ -35,7 +35,7 @@ Cloud:           AWS (beginner), Google Colab
 
 ## 🛠 Projects Showcase
 
-- 🧠 **Customer Churn Prediction** – [GitHub Repo](#)  
+- 🧠 **Customer Churn Prediction** – [GitHub Repo](https://github.com/abhinv11/Customer_churn_prediction)  
   *Predict whether a customer will stay or leave a financial institutions  using ML classifiers*
 
 - 🎯 **Flight Fare Prediction** – [GitHub Repo](https://github.com/abhinv11/flight_price_prediction_using_ml)  
