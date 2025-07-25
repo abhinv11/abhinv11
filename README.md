@@ -16,6 +16,7 @@
 - 🚀 I’m currently working on improving my portfolio through **Machine Learning & Deep Learning projects**
 - 📈 Exploring Kaggle and building projects from scratch
 - 📚 Lifelong learner focused on **growth, discipline**, and **impact**
+- 📫 How to reach me **abhinavjaswal21@gmail.com**
 
 ---
 
