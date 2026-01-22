@@ -36,6 +36,9 @@ Cloud:           AWS (beginner), Google Colab
 
 ## 🛠 Projects Showcase
 
+- 🧠 **QUIZ-App** – [GitHub Repo](https://github.com/abhinv11/Quiz-App-v2)  
+  *A modern, full-stack quiz application platform built with Flask, Vue.js, Redis and Celery that enables educational institutions to create, manage, and conduct online assessments with comprehensive analytics and reporting capabilities.*
+
 - 🧠 **Customer Churn Prediction** – [GitHub Repo](https://github.com/abhinv11/Customer_churn_prediction)  
   *Predict whether a customer will stay or leave a financial institutions  using ML classifiers*
 
