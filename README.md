@@ -49,7 +49,7 @@ Cloud:           AWS (beginner), Google Colab
 - 🎯 **Household Services App** - [GitHub Repo](https://github.com/abhinv11/abhinav-household-iitmbs-project)
   *A comprehensive Flask-based web application provides a complete platform for booking, managing, and reviewing household services*
 
-  - 📊 **Business Data Management and Analysis Project** - [GitHub Repo](https://github.com/abhinv11/business_data_management_project)
+- 📊 **Business Data Management and Analysis Project** - [GitHub Repo](https://github.com/abhinv11/business_data_management_project)
   *A data-driven business analytics project that optimizes inventory management, procurement, and working capital for a manufacturing SME using time-series analysis, ABC classification, and forecasting.*
 
  - 📊 **Engage2Value: From Clicks to Conversions** - [GitHub Repo](https://github.com/abhinv11/Engage2Value-From-Clicks-to-Conversions-ML-Project)
