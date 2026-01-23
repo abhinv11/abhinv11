@@ -40,13 +40,20 @@ Cloud:           AWS (beginner), Google Colab
   *A modern, full-stack quiz application platform built with Flask, Vue.js, Redis and Celery that enables educational institutions to create, manage, and conduct online assessments with comprehensive analytics and reporting capabilities.*
 
 - 🧠 **Customer Churn Prediction** – [GitHub Repo](https://github.com/abhinv11/Customer_churn_prediction)  
-  *Predict whether a customer will stay or leave a financial institutions  using ML classifiers*
+  *Predict whether a customer will stay or leave a financial institutions  using ML classifiers.
+  I got f1 score of 0.6183*
 
 - 🎯 **Flight Fare Prediction** – [GitHub Repo](https://github.com/abhinv11/flight_price_prediction_using_ml)  
-  *Regression project to estimate airline ticket prices using ensemble models*
+  *Regression project to estimate airline ticket prices using ensemble models, got a r2 score of 0.972*
 
 - 🎯 **Household Services App** - [GitHub Repo](https://github.com/abhinv11/abhinav-household-iitmbs-project)
   *A comprehensive Flask-based web application provides a complete platform for booking, managing, and reviewing household services*
+
+  - 📊 **Business Data Management and Analysis Project** - [GitHub Repo](https://github.com/abhinv11/business_data_management_project)
+  *A data-driven business analytics project that optimizes inventory management, procurement, and working capital for a manufacturing SME using time-series analysis, ABC classification, and forecasting.*
+
+ - 📊 **Engage2Value: From Clicks to Conversions** - [GitHub Repo](https://github.com/abhinv11/Engage2Value-From-Clicks-to-Conversions-ML-Project)
+  *A machine learning project that predicts customer purchase value from large-scale, session-level behavioral data using regression models, achieving an R² score of 0.613.*
 
 <!-- - 📊 **EDA on Indian Startups** – [GitHub Repo](#)  
   *Visual exploration of startup funding in India*
