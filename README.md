@@ -36,6 +36,9 @@ Cloud:           AWS (beginner), Google Colab
 
 ## 🛠 Projects Showcase
 
+- 🎯 **ReciPie- An AI Powered Recipie Management App** – [GitHub Repo](https://github.com/abhinv11/ReciPie-An-AI-powered-Recipe-Management-App)  
+  *A full-stack recipe management web application built with FastAPI and MongoDB, featuring AI-powered recipe assistance, smart search, and cloud deployment on Vercel.*
+
 - 🧠 **QUIZ-App** – [GitHub Repo](https://github.com/abhinv11/Quiz-App-v2)  
   *A modern, full-stack quiz application platform built with Flask, Vue.js, Redis and Celery that enables educational institutions to create, manage, and conduct online assessments with comprehensive analytics and reporting capabilities.*
 
