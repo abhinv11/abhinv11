@@ -36,7 +36,7 @@ Cloud:           AWS (beginner), Google Colab
 
 ## 🛠 Projects Showcase
 
-- 🐐 **RC AI Agent with Markdown RAG Tool Support** – [GitHub Repo]((https://github.com/abhinv11/RC-AI-Agent))  
+- 🐐 **RC AI Agent with Markdown RAG Tool Support** – [GitHub Repo](https://github.com/abhinv11/RC-AI-Agent)
   *This project is an AI-powered Reinforced Concrete (RC) beam design assistant built using LangGraph, Streamlit, and RAG-based markdown retrieval. It supports multi-turn engineering conversations, automated beam design workflows, cost estimation, code compliance checks, and optional research/image generation using OpenAI, Tavily, and Gemini APIs. The system orchestrates multiple specialized workers in parallel to generate structured engineering reports with design insights, reinforcement details, safety validation, and visual outputs.*
 
 - 🎯 **Document Parser using RAG** – [GitHub Repo](https://github.com/abhinv11/Document_Parser_using_RAG)  
